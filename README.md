@@ -3,7 +3,7 @@ My name is Nam Hoang. I am interested in the following topics: Deep Learning and
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/namhv521/Matching_system_ReinforcementLearning">
+<a href="https://github.com/namhv521/Matching_system_ReinforcementLeaning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Matching_system_ReinforcementLearning&theme=transparent" />
 </a>
 
