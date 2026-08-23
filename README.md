@@ -3,8 +3,20 @@ My name is Nam Hoang. I am interested in the following topics: Deep Learning and
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/namhv521/Matching_system_ReinforcementLearning"> <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namhv521&repo=Matching_system_ReinforcementLearning&theme=radical" /> </a>
+<table> <tr> <td width="50%">
 
-<a href="https://github.com/namhv521/Sokoban_RL"> <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namhv521&repo=Sokoban_RL&theme=gruvbox" /> </a>
+<a href="https://github.com/namhv521/Matching_system_ReinforcementLearning"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namhv521&repo=Matching_system_ReinforcementLearning&theme=radical" width="100%" /> </a>
 
-<a href="https://github.com/namhv521/SnakeApple_RL"> <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namhv521&repo=SnakeApple_RL&theme=merko" /> </a>
+</td> <td width="50%">
+
+<a href="https://github.com/namhv521/Sokoban_RL"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namhv521&repo=Sokoban_RL&theme=gruvbox" width="100%" /> </a>
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+<a href="https://github.com/namhv521/SnakeApple_RL"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namhv521&repo=SnakeApple_RL&theme=merko" width="100%" /> </a>
+
+</td> <td width="50%">
+
+</td> </tr> </table>
