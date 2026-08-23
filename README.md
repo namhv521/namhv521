@@ -1,7 +1,6 @@
 # WELCOME TO MY PAGE
 My name is Nam Hoang. I am interested in the following topics: Deep Learning and Reiforcement Learning
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
