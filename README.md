@@ -2,9 +2,9 @@
 I'm interested in **Deep Learning** and **Reinforcement Learning**.
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-namhv521-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namhv521/)
-[![Facebook](https://img.shields.io/badge/Facebook-namhv521-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/namhv521/)
-[![GitHub](https://img.shields.io/badge/GitHub-namhv521-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namhv521/)
+<a href="https://www.linkedin.com/in/namhv521/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" alt="LinkedIn" /> LinkedIn</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/namhv521/"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="18" alt="Facebook" /> Facebook</a>&nbsp;&nbsp;
+<a href="https://github.com/namhv521/"><img src="https://cdn.simpleicons.org/github/181717" width="18" alt="GitHub" /> GitHub</a>
 
 
 <p align="center">
