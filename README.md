@@ -2,7 +2,7 @@
 I'm interested in **Deep Learning** and **Reinforcement Learning**.
 ## 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/namhv521/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" alt="LinkedIn" /> LinkedIn</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/namhv521/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="18" alt="LinkedIn" /> LinkedIn</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/namhv521/"><img src="https://cdn.simpleicons.org/facebook/0866FF" width="18" alt="Facebook" /> Facebook</a>&nbsp;&nbsp;
 <a href="https://github.com/namhv521/"><img src="https://cdn.simpleicons.org/github/181717" width="18" alt="GitHub" /> GitHub</a>
 
